@@ -1,1 +1,1 @@
-install.packages(c("readr","moments","tidyr","ggplot2"))
+install.packages("moments")
